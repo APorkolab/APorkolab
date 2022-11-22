@@ -3,7 +3,7 @@
 
 🔭 I have my own one-man non-profit game studio where I create text adventure games called Hootie in Bootee Studio (www.hootieinbootee.com)
 
-🌱 I'm currently working on a "five new projects" challenge: finishing an adventure game and refactoring a test project. The other projects will be a surprise.
+🌱 Currently, I have just completed the "five new projects" challenge and am taking a break to recharge. A surprise will await next year's projects.
 
 🤔 Looking for help with job search :)
 
