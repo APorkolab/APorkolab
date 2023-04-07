@@ -7,7 +7,7 @@
 
 🤔 Looking for help with job search :)
 
-📫 My professional page is www.porkolab.digital, please be invited to check it.
+📫 My professional page is www.pklab.hu, please be invited to check it.
 
 ⚡ Fun fact: I earn my living with Robocop (no, not the movie, but the software called 'Robotzsaru' in Hungarian). :D
 
