@@ -1,14 +1,40 @@
-**Hello, Tech Explorers! 🚀**  
-🌍 **Greetings from Pécs, Hungary's innovation hub!** This vibrant city inspires my journey as I delve into the world of software development and system administration.
+# 👨‍💻 Ádám Porkoláb – Senior Full Stack Engineer
 
-🖥️ **Fullstack Developer & Aspiring DevOps Enthusiast:** I’m expanding my horizons from building full-stack applications to mastering the art of DevOps and containerization. Whether it's developing end-to-end solutions or optimizing deployment pipelines, I'm all in!
+Remote-first backend/full stack developer focused on clean architecture, sustainable systems, and async collaboration. Strong experience with Java (17+), Spring Boot, PostgreSQL, and Angular (14+), supported by an academic background in linguistics and structured thinking.
 
-🐧 **Current Focus:** I'm diving deep into **Linux VPS server management** and exploring **Dockerization**. My goal is to automate, scale, and deploy with efficiency, all while continuously honing my full-stack development skills.
+---
 
-💡 **Always Learning:** The world of tech is vast, and I'm eager to explore it all. Got any insights on DevOps, Docker, or server management? Let’s connect and share knowledge!
+## 🧠 Key Areas of Expertise
+- ⚙️ Full-cycle backend development & technical ownership  
+- 🔍 Refactoring & stabilizing legacy codebases  
+- 📝 Documentation-first mindset, test coverage focus  
+- 🌍 Remote collaboration in async-first setups (DE–HU)
 
-🤝 **Collaboration & Experimentation:** I’m always working on personal projects and experimenting with new technologies. Check out my repositories for a glimpse into my latest endeavors. Feedback and collaboration opportunities are highly welcome!
+---
 
-🔧 **Fun Fact:** I'm passionate about creating self-hosted solutions and automating workflows. The challenge of managing my own infrastructure is the next frontier on my tech adventure!
+## 🛠️ Tech Stack
+- **Backend:** Java 17, Spring Boot, Hibernate, PostgreSQL  
+- **Frontend:** Angular 14+, RxJS, SCSS  
+- **DevOps:** Docker, GitHub Actions, REST, OpenAPI/Swagger  
+- **Cloud & Tools:** Basic GCP, Linux CLI, IntelliJ
 
-🔗 **Let’s Build and Automate Together!** Your tips, tricks, and project ideas are always appreciated.
+---
+
+## 🧭 Working Principles
+- ✅ Prefer clearly scoped tasks & written specs  
+- ❌ No live coding or whiteboard interviews  
+- 📦 Take-home projects & async discussions welcome  
+- 🧘 Looking for engineering environments with clarity & depth
+
+---
+
+## 🤝 Let’s Collaborate
+
+💡 **If you're hiring for a senior backend/full stack role (remote, async-friendly), or running a meaningful side project — feel free to reach out.**  
+I'm open to well-scoped freelance, contract or side collaboration opportunities.
+
+---
+
+## 🔗 Contact & Links
+
+📎 More about me: [adamporkolab.hu](https://www.adamporkolab.hu) | [LinkedIn](https://www.linkedin.com/in/adamporkolab) | [GitHub](https://github.com/APorkolab)
