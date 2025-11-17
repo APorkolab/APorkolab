@@ -37,4 +37,4 @@ I'm open to well-scoped freelance, contract or side collaboration opportunities.
 
 ## 🔗 Contact & Links
 
-📎 More about me: [adamporkolab.hu](https://www.adamporkolab.hu) | [LinkedIn](https://www.linkedin.com/in/adamporkolab) | [GitHub](https://github.com/APorkolab)
+📎 More about me: [aporkolab.com](https://www.aporkolab.com) | [LinkedIn](https://www.linkedin.com/in/adamporkolab) | [Medium](https://aporkolabsdevhackery.medium.com)
