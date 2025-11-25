@@ -1,40 +1,26 @@
-# 👨‍💻 Ádám Porkoláb – Senior Full Stack Engineer
+### 👋 Hi, I'm Ádám.
 
-Remote-first backend/full stack developer focused on clean architecture, sustainable systems, and async collaboration. Strong experience with Java (17+), Spring Boot, PostgreSQL, and Angular (14+), supported by an academic background in linguistics and structured thinking.
+**Senior Full-Stack Engineer & Computational Linguist**
+I build stable, maintainable systems and refactor complex legacy codebases. My background in linguistics gives me a strong focus on structure, clarity, and predictable architecture.
 
----
+- 🔭 **Focus:** Java (Spring Boot), Angular, distributed systems, system resilience
+- 🧠 **Background:** PhD in Linguistics — analytical thinking applied to engineering
+- 🌍 **Work Style:** Remote-first, async-first. Prefer clear specs and written communication.
 
-## 🧠 Key Areas of Expertise
-- ⚙️ Full-cycle backend development & technical ownership  
-- 🔍 Refactoring & stabilizing legacy codebases  
-- 📝 Documentation-first mindset, test coverage focus  
-- 🌍 Remote collaboration in async-first setups (DE–HU)
+#### 🛠️ Tech Stack
+`Java 21` `Spring Boot` `Microservices` `Angular (Modern)` `PostgreSQL`
+`Docker` `GitHub Actions` `REST` `OpenAPI`
 
----
-
-## 🛠️ Tech Stack
-- **Backend:** Java 17, Spring Boot, Hibernate, PostgreSQL  
-- **Frontend:** Angular 14+, RxJS, SCSS  
-- **DevOps:** Docker, GitHub Actions, REST, OpenAPI/Swagger  
-- **Cloud & Tools:** Basic GCP, Linux CLI, IntelliJ
+#### 🧭 Engineering Values
+- **Clarity:** Code should be readable, consistent, and easy to maintain.
+- **Sustainability:** Refactoring and long-term system health matter more than quick fixes.
+- **Evaluation:** I work best with **take-home tasks** or structured technical discussions — rather than live coding puzzles.
 
 ---
 
-## 🧭 Working Principles
-- ✅ Prefer clearly scoped tasks & written specs  
-- ❌ No live coding or whiteboard interviews  
-- 📦 Take-home projects & async discussions welcome  
-- 🧘 Looking for engineering environments with clarity & depth
+### 🚀 [View my full portfolio & interactive CV](https://cv.adamporkolab.com)
+*Includes engineering projects, architecture diagrams, and full experience.*
 
 ---
 
-## 🤝 Let’s Collaborate
-
-💡 **If you're hiring for a senior backend/full stack role (remote, async-friendly), or running a meaningful side project — feel free to reach out.**  
-I'm open to well-scoped freelance, contract or side collaboration opportunities.
-
----
-
-## 🔗 Contact & Links
-
-📎 More about me: [aporkolab.com](https://www.aporkolab.com) | [LinkedIn](https://www.linkedin.com/in/adamporkolab) | [Medium](https://aporkolabsdevhackery.medium.com)
+[LinkedIn](https://linkedin.com/in/adamporkolab) • [Website](https://aporkolab.com) • [Medium](https://medium.com/@aporkolabsdevhackery)
