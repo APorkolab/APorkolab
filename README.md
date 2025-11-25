@@ -18,7 +18,7 @@ I build stable, maintainable systems and refactor complex legacy codebases. My b
 
 ---
 
-### 🚀 [View my full portfolio & interactive CV](https://cv.adamporkolab.com)
+### 🚀 [View my full portfolio & interactive CV](https://aporkolab.com)
 *Includes engineering projects, architecture diagrams, and full experience.*
 
 ---
